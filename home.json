@@ -1,0 +1,22 @@
+[
+	{
+		"companies": [
+			{
+				"companyName": "Surfboard",
+				"logo": "https://www.surfboardventures.com/favicon.ico",
+				"url": "/surfboard"
+			},
+			{
+				"companyName": "Raw Engineering",
+				"logo": "https://www.raweng.com/icons/icon-144x144.png",
+				"url": "/raw-engineering"
+			},
+			{
+				"companyName": "Contentstack",
+				"logo": "https://www.contentstack.com/favicon.ico",
+				"url": "/contentstack"
+			}
+		],
+		"backgroundImage": "https://images.unsplash.com/photo-1541103341619-7e00561566f9?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=750&q=80"
+	}
+]

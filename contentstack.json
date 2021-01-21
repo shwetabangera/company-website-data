@@ -1,0 +1,65 @@
+[
+	{
+		"contentstackLogo": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt8dc4dd93cd29ae05/5f1a2be13986577a2d5f6736/Contentstack-full-logo-white_800x133.png",
+		"navigationLinks": [
+			"Product",
+			"Resources",
+			"Customers",
+			"Partners",
+			"Company",
+			"Request Demo"
+		],
+		"heading": "Finally, A Modern Content Management System",
+		"subHeading": "Contentstack brings business and technology teams together to deliver personalized, omnichannel digital experiences.",
+		"bannerImage": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blt0eac3686a06a4a3f/5f1a2be2ecbff322d09554d6/hero-carousel-1.jpg",
+		"whyChooseContentstack": [
+			{
+				"title": "Idea-to-Deployment in Record Time",
+				"content": "Accelerate the delivery of digital content, sites, and apps to bring new experiences to life in days, not months, with a modern CMS."
+			},
+			{
+				"title": "Improve ROI and ‘Return on Experience’",
+				"content": "Reap greater returns on investments – both past and future – in digital content and digital experiences."
+			},
+			{
+				"title": "Better Collaboration, Better Control",
+				"content": "Bring business and technology teams into harmony with our headless CMS, and unleash the full potential of your marketers, editors, designers, and developers"
+			}
+		],
+		"forIT": [
+			{
+				"title": "For IT & Developers",
+				"content": "Easy to maintain, front-end framework agnostic, and extensible integrations — empowering business users and freeing developers."
+			}
+		],
+		"forBusiness": [
+			{
+				"title": "For Business",
+				"content": "Build pages with a rich visual editor, along with scheduling and publishing management tools — all without developer intervention."
+			}
+		],
+		"features": [
+			{
+				"title": "Workflows",
+				"content": "Set up and define workflows and approvals with our modern CMS that map to your business processes for content management and publishing."
+			},
+			{
+				"title": "Experience Extensions",
+				"content": "Easily integrate with your preferred marketing technologies (Brightcove, Marketo, Salesforce, Optimizely, etc.) without being bound to built-in preset tools."
+			},
+			{
+				"title": "Modular Blocks",
+				"content": "Allow content editors to build and edit dynamic pages within our headless CMS without needing a developer's help."
+			},
+			{
+				"title": "Multiple Environments",
+				"content": "Create unlimited content management system, such as development, testing, staging, and production, to map to your content production process."
+			}
+		],
+		"bottomBanner": {
+			"title": "TRY IT TO BELIEVE IT",
+			"imageUrl": "https://images.contentstack.io/v3/assets/bltc5a09bf374882538/blta8ec620b53524f45/5f1a2bd31db8ad781814787d/download.jpg"
+		},
+		"footer": ["Terms", "Privacy"]
+	}
+]
